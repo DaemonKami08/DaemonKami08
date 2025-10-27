@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/5164e731-4662-4f59-87d7-4619cc3f98ab" align="center">
-<br>
+<br><br>
 <p align="center"> | The terminal is my dojo, the code is my katana, automation is my honor | </p>
 <br>
 <br>
