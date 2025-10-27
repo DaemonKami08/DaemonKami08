@@ -2,7 +2,6 @@
 <br><br>
 <p align="center"> | The terminal is my dojo, the code is my katana, automation is my honor | </p>
 <br>
-<br>
 <h2 align="center"> Skills </h2>
 <p align="center"> Docker · Kubernetes · CI/CD · Terraform · Ansible · Linux · Bash/Python · Prometheus · Git </p>
 <br>
