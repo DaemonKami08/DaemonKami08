@@ -1,5 +1,8 @@
 <img src="https://github.com/user-attachments/assets/5164e731-4662-4f59-87d7-4619cc3f98ab" align="center">
+<br><br>
+<p align="right"> Молчание меча. Звук деплоя. DevOps — это искусство. </p>
 <br><br><br>
+<h2 align="center">SKILLS</h2>
 
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=000000)](https://hub.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&color=000000)](https://kubernetes.io/)
@@ -11,7 +14,7 @@
 [![Observability](https://img.shields.io/badge/Observability-black?style=for-the-badge&logo=prometheus&logoColor=white&color=000000)](https://prometheus.io/)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=000000)](https://git-scm.com/)
 
-<br><br><br>
+<br><br>
 <h2 align="center">SOC</h2>
 <p align="center">
 <a href="https://github.com/DaemonKami08"><img src="https://img.shields.io/badge/GitHub-@DaemonKami08-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
