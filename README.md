@@ -4,16 +4,17 @@
 <br><br><br>
 <h2 align="center"> Skills </h2>
 <ul> 
-<li>    Docker — Dockerfile, контейнеры, multi‑stage </li>
-<li>    Kubernetes (junior) — Deployments, Services, kubectl, minikube / kind </li>
-<li>    CI/CD — GitHub Actions / GitLab CI, автопайплайны и деплой </li>
-<li>    Terraform (базово) — модули, state, provisioning </li>
-<li>    Ansible — playbooks, роли, простая автоматизация </li>
-<li>    Linux — shell, systemd, логирование, troubleshooting </li>
-<li>    Скрипты — Bash / Python для автоматизации </li>
-<li>    Observability (базово) — Prometheus, Grafana, alerting </li>
-<li>    Безопасность — базовый hardening, права доступа </li>
-<li>    Git — ветвление, PR, code review </li>
+  
+[![Docker](https://img.shields.io/badge/Docker-Available-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://hub.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-Managed-623CE4?logo=terraform&logoColor=white&style=for-the-badge)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-Automate-EE0000?logo=ansible&logoColor=white&style=for-the-badge)](https://www.ansible.com/)
+[![Linux](https://img.shields.io/badge/Linux-Server-000000?logo=linux&logoColor=white&style=for-the-badge)](https://www.kernel.org/)
+[![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![Observability](https://img.shields.io/badge/Observability-Prometheus-F0B429?logo=prometheus&logoColor=black&style=for-the-badge)](https://prometheus.io/)
+[![Hardening](https://img.shields.io/badge/Security-Hardening-ff5f5f?logo=shield&logoColor=white&style=for-the-badge)](#)
+[![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 </ul>
 <br><br>
 <p align="center">
