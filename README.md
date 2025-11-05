@@ -1,8 +1,9 @@
-<img src="https://github.com/user-attachments/assets/70a77803-a018-431e-ba95-40a89080a248" align="right" height="560" > 
+<img src="https://github.com/user-attachments/assets/2f351dea-4ff6-40db-9eff-a437cc0b10a8" align="right" height="580" > 
 <br><br>
 <br><br>
 <p align="left">SKILLS</p>
 <br>
+
 
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=000000)](https://hub.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&color=000000)](https://kubernetes.io/)
@@ -19,6 +20,6 @@
 
 <p align="left">SOC</p>
 
-<a href="https://github.com/DaemonKami08"><img src="https://img.shields.io/badge/GitHub-@DaemonKami08-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://t.me/FranDzzzzz"><img src="https://img.shields.io/badge/Telegram-@FranDzzzzz-000000?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-USERNAME-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/DaemonKami08)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=000000)](https://t.me/FranDzzzzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://w)
