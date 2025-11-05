@@ -10,7 +10,6 @@
 [![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=white&color=000000)](https://www.terraform.io/)
 [![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible&logoColor=white&color=000000)](https://www.ansible.com/)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white&color=000000)](https://www.kernel.org/)
-
 [![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&color=000000)](https://www.python.org/)
 [![Observability](https://img.shields.io/badge/Observability-black?style=for-the-badge&logo=prometheus&logoColor=white&color=000000)](https://prometheus.io/)
