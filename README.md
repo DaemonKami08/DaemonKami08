@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/70a77803-a018-431e-ba95-40a89080a248" align="left" height="560" > 
+<img src="https://github.com/user-attachments/assets/70a77803-a018-431e-ba95-40a89080a248" align="right" height="560" > 
 <br><br>
 <br><br>
 <p align="left">SKILLS</p>
