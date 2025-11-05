@@ -1,8 +1,14 @@
-<img src="https://github.com/user-attachments/assets/2f351dea-4ff6-40db-9eff-a437cc0b10a8" align="right" height="580" > 
+<img src="https://github.com/user-attachments/assets/28e69186-790f-4acf-bae7-fa565c954fe1" align="center" >
 <br><br>
-<br><br>
-<p align="left">SKILLS</p>
-
+<p align="center">
+  <em>
+    Путь воина — автоматизация.<br>
+    Путь кода — самоконтроль.<br>
+    DevOps — ремесло...
+  </em>
+</p>
+<br><br><br><br>
+<h2 align="center"> SKILLS</h2>
 
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=000000)](https://hub.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&color=000000)](https://kubernetes.io/)
@@ -16,9 +22,9 @@
 
 <br><br>
 
-<p align="left">SOC</p>
-
+<h2 align="center"> SOC </h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/DaemonKami08)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=000000)](https://t.me/FranDzzzzz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://w)
+
