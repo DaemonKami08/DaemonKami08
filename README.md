@@ -2,7 +2,6 @@
 <br><br>
 <br><br>
 <p align="left">SKILLS</p>
-<br>
 
 
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=000000)](https://hub.docker.com/)
@@ -18,6 +17,7 @@
 <br><br>
 
 <p align="left">SOC</p>
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/DaemonKami08)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=000000)](https://t.me/FranDzzzzz)
