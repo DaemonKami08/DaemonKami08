@@ -1,7 +1,8 @@
 <img src="https://github.com/user-attachments/assets/5164e731-4662-4f59-87d7-4619cc3f98ab" align="center">
 <br><br>
-<p align="right"> Молчание меча. Звук деплоя. DevOps — это искусство. </p>
-<br><br><br>
+
+<br><br>
+
 <h2 align="center">SKILLS</h2>
 
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=000000)](https://hub.docker.com/)
@@ -15,9 +16,12 @@
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=000000)](https://git-scm.com/)
 
 <br><br>
+
 <h2 align="center">SOC</h2>
 <p align="center">
 <a href="https://github.com/DaemonKami08"><img src="https://img.shields.io/badge/GitHub-@DaemonKami08-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://t.me/FranDzzzzz"><img src="https://img.shields.io/badge/Telegram-@FranDzzzzz-000000?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-USERNAME-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/a8ed0edf-dae2-4539-9d5b-2e2a30bab9e3" height="180" alt="Samurai anime DevOps"> </p>
