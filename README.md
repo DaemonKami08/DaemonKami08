@@ -8,7 +8,7 @@
   </em>
 </p>
 <br><br><br><br>
-<h2 align="right"> SKILLS</h2>
+<h2 align="center"> SKILLS</h2>
   
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=000000)](https://hub.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&color=000000)](https://kubernetes.io/)
@@ -22,7 +22,7 @@
 
 <br><br>
 
-<h2 align="right"> SOC </h2>
+<h2 align="center"> SOC </h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/DaemonKami08)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=000000)](https://t.me/FranDzzzzz)
