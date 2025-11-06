@@ -21,7 +21,7 @@
 [![Observability](https://img.shields.io/badge/Observability-black?style=for-the-badge&logo=prometheus&logoColor=white&color=000000)](https://prometheus.io/)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=000000)](https://git-scm.com/)
 
-<br><br>
+<br>
 
 <h2 align="left"> SOC </h2>
 
