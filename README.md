@@ -26,7 +26,7 @@
 <p align="left"> SOC </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/DaemonKami08)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=000000)](https://t.me/FranDzzzzz)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=000000)](https://t.me/Laaamb0)
 
 <br><br>
 
