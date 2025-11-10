@@ -1,17 +1,12 @@
-
-
+<p align="center"><em>
+Первый шаг в додзё — свеча, что зажигает путь воина.</em> </p>
+<p align="center"><em>Коммит — клятва: честно, ясно, с уважением к коду.</em> </p>
+<p align="center"><em>Тест — доспех; заточи его бережно и часто.</em> </p>
+<p align="center"><em>Ошибка — не враг, а учитель: поклонись и запомни урок.
+</em> </p>
+<br><br><br><br><br>
 <img src="https://github.com/user-attachments/assets/b789537c-4847-49ff-a803-bb45b5102747" align="right" height="500">
 <br>
-
-
-<p><em>
-Первый шаг в додзё — свеча, что зажигает путь воина.</em> </p>
-<p><em>Коммит — клятва: честно, ясно, с уважением к коду.</em> </p>
-<p><em>Тест — доспех; заточи его бережно и часто.</em> </p>
-<p><em>Ошибка — не враг, а учитель: поклонись и запомни урок.
-</em> </p>
-
-<br><br>
 <p align="left"> SKILLS</p>
 
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=000000)](https://hub.docker.com/)
