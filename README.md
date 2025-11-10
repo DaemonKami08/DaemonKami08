@@ -28,7 +28,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/DaemonKami08)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=000000)](https://t.me/FranDzzzzz)
 
-
+<br><br>
 
 <img src="https://github.com/user-attachments/assets/b95146d9-a083-4246-a6a1-ca29179de10c" align="right" width="1300">
 
